@@ -31,6 +31,7 @@ Usage
 	Second enter a keyword to search, and enter type of the search: topic ( searches only topics containing the keyword, return their  description and parent topics),
 	description( search for descriptions containing the keyword showing the topic hierarchy they belong to), topic/description  mixed search 
 	( combines the previous two types of searches in a single one). 
+	If you don't type any keyword, all content will be displayed.
 	If you tick edit file, after browsing to a specific folder you can view the containing files and edit them. 
 	
 "Installation" 
